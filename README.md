@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AshBee66
-- 👀 I’m interested in is to keep my brain active and new learning 
-- 🌱 As I’have just retired, this learing programming in Pyton is to keep my brain active and new learning
+- 👀 I’m interested in keeping my brain active and new learnings 
+- 🌱 I’have just retired; this learing Python is one a number of activites & i have planned
 - 💞️ I’m looking to collaborate on ???  ...
 - 📫 How to reach me ...
 
